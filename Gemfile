@@ -31,6 +31,7 @@ group :development, :test do
   gem 'guard'
   gem 'guard-rspec'
   gem 'rspec-rails'
+  gem "better_errors"
   gem 'pry-rails'
 end
 
